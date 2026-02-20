@@ -10,6 +10,8 @@ Basic Workflow
 - git commit (Commit a file for git tracking)
 - git log (Check commit history)
 - git log --oneline (better display)
+- git remote add origin "URL"
+- git push origin "branch name"
 
 
 Viewing Changes
