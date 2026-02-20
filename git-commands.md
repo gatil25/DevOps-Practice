@@ -5,9 +5,11 @@ Setup & Config
 - git config --list (verify config)
 
 Basic Workflow
-- 
-
-
+- git status (check status)
+- git add (Stage a file)
+- git commit (Commit a file for git tracking)
+- git log (Check commit history)
+- git log --oneline (better display)
 
 
 Viewing Changes
