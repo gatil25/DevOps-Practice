@@ -12,6 +12,8 @@ Basic Workflow
 - git log --oneline (better display)
 - git remote add origin "URL"
 - git push origin "branch name"
+- git pull origin "branch name"
+- git fetch origin "branch name" 
 
 
 Viewing Changes
